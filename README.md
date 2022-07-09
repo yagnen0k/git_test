@@ -1,2 +1,3 @@
 # git_test
-lamborghini
+MY FIRST GITHUB REPO
+HI!!
